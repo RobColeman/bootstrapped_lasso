@@ -1,0 +1,3 @@
+Wrappers for glmnet to perform the "Bootstrapped" lasso, "BoLasso" or "Ensamble Lasso" asymptotically valid feature selection.
+
+Note: Requires glmnet toolbox for lasso
